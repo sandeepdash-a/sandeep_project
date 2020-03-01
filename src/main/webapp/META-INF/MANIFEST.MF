@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Title: sandeep_project
+Specification-Version: 1.0-SNAPSHOT
+Implementation-Title: sandeepproject
+Implementation-Version: 1.0-SNAPSHOT
